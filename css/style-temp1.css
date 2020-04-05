@@ -1,0 +1,21 @@
+.box {
+
+	border: 5px solid black;
+	min-height: 500px; 
+}
+#box-1{ background-color: chocolate; }
+
+
+
+p {
+	color: blue;
+}
+
+
+@media screen and (max-width: 1000px
+	) {
+	div{font-size: 25px;}
+	p {
+		color: red;
+	}
+}
